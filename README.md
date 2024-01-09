@@ -1,2 +1,2 @@
 # java
- algumas atividades feita em java durante as aulas 
+ CRUD desenvolvido nas aulas de orientação a objeto
